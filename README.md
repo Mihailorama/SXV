@@ -27,4 +27,4 @@ Although the XBRL document and XBRL taxonomy(s) are different physical files, SX
 the related XBRL taxonomies to provide a single, report-like view of the information that is formatted like an accountant or financial professional 
 would expect -like that of a structured financial statement/report.
 
-[Link]http://xbrl.org.ru
+[Link]https://cloudlab.studio
